@@ -1,1 +1,5 @@
 "# Actividad Git Remoto" 
+"" 
+"## Objetivos" 
+"- Aprender a trabajar con repositorios remotos" 
+"- Practicar pull requests y ramas" 
