@@ -1,3 +1,6 @@
 "# Gu¡a de uso del proyecto" 
 "## Instalaci¢n" 
 "Clona el repositorio y ejecuta los comandos necesarios." 
+"" 
+"## Configuraci¢n" 
+"Configura tu usuario de Git y autenticaci¢n." 
