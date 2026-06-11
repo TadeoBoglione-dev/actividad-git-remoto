@@ -1,1 +1,3 @@
 "Contenido de documentaci¢n t‚cnica" 
+"## Uso b sico" 
+"Este proyecto demuestra el flujo de Git remoto." 
